@@ -1,6 +1,6 @@
 ---
 name: linkedin-perfil
-description: Audita y reescribe el perfil de LinkedIn completo del usuario (foto, banner, titular, acerca de, destacados, experiencia, URL) para que convierta visitas en contactos. Úsala cuando pida optimizar, revisar o mejorar su perfil de LinkedIn.
+description: Le pone una nota sobre 100 al perfil de LinkedIn del usuario y reescribe lo que le resta puntos; audita y reescribe el perfil completo (foto, banner, titular, acerca de, destacados, experiencia, URL) para que convierta visitas en contactos. Úsala cuando pida optimizar, revisar o mejorar su perfil de LinkedIn.
 ---
 
 # Optimizar el perfil de LinkedIn
@@ -17,7 +17,7 @@ Pregunta, si no lo sabes: **a quién quiere atraer** (clientes, empleadores, inv
 
 ## Auditoría: 10 puntos
 
-Puntúa cada uno de 0 a 2 y muestra el total sobre 20:
+Puntúa cada uno de 0 a 10 y muestra el **total sobre 100**. Después ordena los puntos de menor a mayor puntaje: lo que más puntos le resta es lo primero que se reescribe.
 
 1. **Foto**: cara visible, fondo limpio, mirando a cámara, recortada desde los hombros.
 2. **Banner**: dice qué haces o muestra prueba (no un paisaje genérico).
@@ -32,7 +32,7 @@ Puntúa cada uno de 0 a 2 y muestra el total sobre 20:
 
 ## Reescritura
 
-Entrega listo para copiar:
+Empieza por los puntos que más restaron. Entrega listo para copiar:
 1. **3 titulares** alternativos con fórmulas distintas:
    - "Ayudo a [quién] a [resultado] con [método]"
    - "[Rol] · [prueba concreta] · [lo que ofreces]"

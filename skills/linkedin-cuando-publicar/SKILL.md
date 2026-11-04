@@ -34,6 +34,8 @@ Consistencia > volumen: es mejor 2 posts todas las semanas que 5 una semana y 0 
 
 ## Calendario
 
+Además del calendario, para cada semana entrega **las 10 personas con las que interactuar esa semana** (sacadas de la lista de `linkedin-con-quien-interactuar` si existe; si no, perfiles concretos a buscar), con una línea de por qué cada una.
+
 Entrega una tabla de 2 semanas con: día · hora (en la zona del usuario **y** de la audiencia si difieren) · pilar · idea (de `linkedin-que-publicar` si hay banco) · bloque de 20 min para responder comentarios después de publicar.
 
 ## Ajuste con datos

@@ -32,7 +32,9 @@ Reglas:
 
 ## Entrega
 
-1. Tabla: persona · tipo · respuesta propuesta.
+Ordena todo por prioridad: **primero las personas que pueden ser clientes** (pidieron el recurso, preguntan por precio o servicio, tienen un cargo o empresa que encaja con el cliente ideal), después las preguntas, después el resto.
+
+1. Tabla ordenada por prioridad: persona · tipo · ¿posible cliente? · respuesta propuesta.
 2. Lista aparte de **personas para escribir por mensaje** (las que pidieron el recurso o mostraron interés de compra), con un mensaje inicial sugerido para cada una.
 
 ## Publicar (solo con aprobación)
